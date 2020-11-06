@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Actividad 11 DB</string>
+
+    <string name="ET_numero">Número</string>
+
+    <string name="ET_nombre">Nombre</string>
+
+    <string name="ET_dirección">Dirección</string>
+
+    <string name="ET_teléfono">Teléfono</string>
+
+    <string name="ET_correo">Correo Electronico</string>
+
+    <string name="BT_agregar">Agregar Datos</string>
+
+    <string name="BT_bucarclienteNum">Buscar cliente por numero</string>
+
+    <string name="BT_buscarclienteNom">Buscar cliente por nombre</string>
+
+    <string name="BT_borracliente">Borrar cliente</string>
+</resources>
